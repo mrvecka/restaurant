@@ -1,0 +1,85 @@
+{
+  "general": {
+    "login": "Prihlásiť sa",
+    "logout": "Odhlásiť sa",
+    "offer": "Ponuka",
+    "cart": "Košík",
+    "about": "O nás",
+    "users": "Užívatelia",
+    "restaurants": "Reštaurácie",
+    "search": "Hľadať",
+    "delete": "Zmazať",
+    "edit": "Upraviť",
+    "detail": "Detail",
+    "no": "Nie",
+    "yes": "Áno",
+    "back": "Späť",
+    "close": "Zatvoriť",
+    "save": "Uložiť",
+    "select": "Vyberte",
+    "proceed": "Pokračovať",
+    "password": "Heslo",
+    "email": "Email",
+    "small": "Malá",
+    "medium": "Stredná",
+    "big": "Veľká"
+  },
+  "offer": {
+    "categories": "Kategórie",
+    "category": {
+      "all": "Všetko",
+      "beer": "Pivo",
+      "alcohol": "Alkohol",
+      "soda": "Nealko",
+      "food": "Jedlo",
+      "icecream": "Zmrzlina",
+      "other": "Ostatné"
+    },
+    "item": {
+      "description-header": "Popis",
+      "description-variation": "Variácia",
+      "description-alergens": "Alergény",
+      "status": {
+        "available": "Dostupné",
+        "unavailable": "Nedostupné"
+      }
+    },
+    "name": "Názov",
+    "description": "Popis",
+    "price": "Cena",
+    "base-amount": "Množstvo",
+    "unit": "Jednotka",
+    "type": "Typ",
+    "new-offer-item": "Nová položka",
+    "edit-offer-item": "Upraviť položku",
+    "add-to-cart": "Pridať do košíka"
+  },
+  "cart": {
+    "empty": "Košík je prázdny",
+    "navigate-to-offer": "Zobraziť ponuku",
+    "item-delete": "Naozaj chcete odstrániť položku z košíku?"
+  },
+  "login": {
+    "guest-question": "Ste hosťom reštaurácie?",
+    "as-guest": "Prihlásiť sa ako hosť",
+    "email": "Email",
+    "name": "Meno",
+    "qr-code-info": "Naskenujte QR kód na stole"
+  },
+  "confirmation": {
+    "delete": {
+      "item": "Zmazať položku?"
+    },
+    "info": {
+      "guest-login-dialo": "Pre správne fungovanie aplikácie prosím zadajte nasledujúce údaje",
+      "checkout-in-progress": "Implementácia práve prebieha"
+    },
+    "cart": {
+      "item-delete": "Naozaj chcete odstrániť položku z košíku?"
+    }
+  },
+  "select": {
+    "unit": "Vyberte jednotku",
+    "type": "Vyberte kategóriu"
+  }
+}

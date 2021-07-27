@@ -1,0 +1,68 @@
+{
+  "general": {
+    "login": "Sign in",
+    "logout": "Sign out",
+    "offer": "Offer",
+    "cart": "Cart",
+    "about": "About us",
+    "users": "Users",
+    "restaurants": "Restaurants",
+    "search": "Search",
+    "delete": "Delete",
+    "edit": "Edit",
+    "no": "No",
+    "yes": "Yes",
+    "close": "Close",
+    "detail": "Detail",
+    "proceed": "Proceed",
+    "password": "Password",
+    "email": "Email",
+    "small": "Small",
+    "medium": "Medium",
+    "big": "Big"
+  },
+  "offer": {
+    "categories": "Categories",
+    "category": {
+      "all": "All",
+      "beer": "Beer",
+      "alcohol": "Alcohol",
+      "soda": "Soda",
+      "food": "Food",
+      "icecream": "Ice cream",
+      "other": "Other"
+    },
+    "item": {
+      "description-header": "Description",
+      "description-variation": "Variation",
+      "description-alergens": "Alergens",
+      "status": {
+        "available": "Available",
+        "unavailable": "Unavailable"
+      }
+    }
+  },
+  "cart": {
+    "empty": "Cart is empty",
+    "navigate-to-offer": "Show offer"
+  },
+  "login": {
+    "guest-question": "Are you a restaurant guest?",
+    "as-guest": "Log in as guest",
+    "email": "Email",
+    "name": "Name",
+    "qr-code-info": "Scan QR code on the table to access restaurant menu"
+  },
+  "confirmation": {
+    "delete": {
+      "item": "Delete item?"
+    },
+    "info": {
+      "guest-login-dialo": "For best user experience please fill information below",
+      "checkout-in-progress": "Implemetation in progress"
+    },
+    "cart": {
+      "item-delete": "Are you sure you want to remove item from cart?"
+    }
+  }
+}
