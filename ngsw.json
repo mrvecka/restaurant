@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627503214925,
+  "timestamp": 1627504237720,
   "index": "https://mrvecka.github.io/restaurant/index.html",
   "assetGroups": [
     {
@@ -23,8 +23,8 @@
         "https://mrvecka.github.io/restaurant/common-es5.aeaacdcfd2d15570fbc0.js",
         "https://mrvecka.github.io/restaurant/favicon.ico",
         "https://mrvecka.github.io/restaurant/index.html",
-        "https://mrvecka.github.io/restaurant/main-es2015.e0fe7a2e2fe76396a49e.js",
-        "https://mrvecka.github.io/restaurant/main-es5.e0fe7a2e2fe76396a49e.js",
+        "https://mrvecka.github.io/restaurant/main-es2015.a92ac734aa63f5006ab4.js",
+        "https://mrvecka.github.io/restaurant/main-es5.a92ac734aa63f5006ab4.js",
         "https://mrvecka.github.io/restaurant/manifest.webmanifest",
         "https://mrvecka.github.io/restaurant/polyfills-es2015.82e9e123059cb9ae123b.js",
         "https://mrvecka.github.io/restaurant/polyfills-es5.d0ea57c549d73cf9cabb.js",
@@ -123,9 +123,9 @@
     "https://mrvecka.github.io/restaurant/common-es5.aeaacdcfd2d15570fbc0.js": "1cbf38acea6ef001d87c723d4596fe807a8347a0",
     "https://mrvecka.github.io/restaurant/empty-cart.ed01c3d763fc1cf9bdb8.svg": "9f76fcf6eb4727b79ab47c1c420cacb5ce458f91",
     "https://mrvecka.github.io/restaurant/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://mrvecka.github.io/restaurant/index.html": "f28a7d9f21156513ead94e9eadb21af9edaf135c",
-    "https://mrvecka.github.io/restaurant/main-es2015.e0fe7a2e2fe76396a49e.js": "17238686713d43d8637c91b7fc0060008eee009d",
-    "https://mrvecka.github.io/restaurant/main-es5.e0fe7a2e2fe76396a49e.js": "b9ffbd168a87449968ea10f76376ff36725059da",
+    "https://mrvecka.github.io/restaurant/index.html": "90ff9a67c93e76073dc9b6cb92bdb34f3fd88525",
+    "https://mrvecka.github.io/restaurant/main-es2015.a92ac734aa63f5006ab4.js": "0c2293f71502179334a9bc47e5ace6619354b2e3",
+    "https://mrvecka.github.io/restaurant/main-es5.a92ac734aa63f5006ab4.js": "bf20b91634b219a53d7b8d73d509431443b4da4b",
     "https://mrvecka.github.io/restaurant/manifest.webmanifest": "34132fc8eb068a1c9f6f3c5e73f243bb023c4427",
     "https://mrvecka.github.io/restaurant/polyfills-es2015.82e9e123059cb9ae123b.js": "935bfd21cd059c85ef36319b5777326b25338db0",
     "https://mrvecka.github.io/restaurant/polyfills-es5.d0ea57c549d73cf9cabb.js": "56653d2fee41bb3fa7987c48eecfbc4c679180b9",
