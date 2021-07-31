@@ -57,7 +57,11 @@
   "cart": {
     "empty": "Košík je prázdny",
     "navigate-to-offer": "Zobraziť ponuku",
-    "item-delete": "Naozaj chcete odstrániť položku z košíku?"
+    "item-delete": "Naozaj chcete odstrániť položku z košíku?",
+    "item": {
+      "added": "Položka bola pridaná do košíka",
+      "removed": "Položka bola odstránená"
+    }
   },
   "login": {
     "guest-question": "Ste hosťom reštaurácie?",

@@ -44,7 +44,11 @@
   },
   "cart": {
     "empty": "Cart is empty",
-    "navigate-to-offer": "Show offer"
+    "navigate-to-offer": "Show offer",
+    "item": {
+      "added": "Item was added to cart",
+      "removed": "Item has been removed"
+    }
   },
   "login": {
     "guest-question": "Are you a restaurant guest?",
