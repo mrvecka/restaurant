@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627738069474,
+  "timestamp": 1627743504530,
   "index": "https://mrvecka.github.io/restaurant/index.html",
   "assetGroups": [
     {
@@ -72,7 +72,6 @@
         "https://mrvecka.github.io/restaurant/assets/images/soda.svg",
         "https://mrvecka.github.io/restaurant/assets/images/toast.png",
         "https://mrvecka.github.io/restaurant/assets/images/usa-flag.svg",
-        "https://mrvecka.github.io/restaurant/assets/videos/promo-full.mp4",
         "https://mrvecka.github.io/restaurant/assets/videos/promo.mp4",
         "https://mrvecka.github.io/restaurant/empty-cart.ed01c3d763fc1cf9bdb8.svg"
       ],
@@ -119,7 +118,6 @@
     "https://mrvecka.github.io/restaurant/assets/images/soda.svg": "073e76f46b03df9ab1b3d779b14e8bb891094171",
     "https://mrvecka.github.io/restaurant/assets/images/toast.png": "9e3cadf9d87154412478c004c4018fdbe523d2f9",
     "https://mrvecka.github.io/restaurant/assets/images/usa-flag.svg": "b0994a6ce8e24d8cb36117334ef2deb5022a7b91",
-    "https://mrvecka.github.io/restaurant/assets/videos/promo-full.mp4": "a21774dbe8f14896aded6b638078d8b78d411480",
     "https://mrvecka.github.io/restaurant/assets/videos/promo.mp4": "9a97c6ecf0af15962aa5383b5dddbfb152d747cf",
     "https://mrvecka.github.io/restaurant/common-es2015.aeaacdcfd2d15570fbc0.js": "de7a98ecc012f9c549d7cab64bff2f9e95610cdb",
     "https://mrvecka.github.io/restaurant/common-es5.aeaacdcfd2d15570fbc0.js": "1cbf38acea6ef001d87c723d4596fe807a8347a0",
