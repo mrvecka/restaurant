@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1627508797557,
+  "timestamp": 1627738069474,
   "index": "https://mrvecka.github.io/restaurant/index.html",
   "assetGroups": [
     {
@@ -30,7 +30,7 @@
         "https://mrvecka.github.io/restaurant/polyfills-es5.d0ea57c549d73cf9cabb.js",
         "https://mrvecka.github.io/restaurant/runtime-es2015.23ec4b4479ee6939be45.js",
         "https://mrvecka.github.io/restaurant/runtime-es5.23ec4b4479ee6939be45.js",
-        "https://mrvecka.github.io/restaurant/styles.17f62e9923a58434f8c4.css"
+        "https://mrvecka.github.io/restaurant/styles.4d2036cf9b0a59988c5b.css"
       ],
       "patterns": []
     },
@@ -125,7 +125,7 @@
     "https://mrvecka.github.io/restaurant/common-es5.aeaacdcfd2d15570fbc0.js": "1cbf38acea6ef001d87c723d4596fe807a8347a0",
     "https://mrvecka.github.io/restaurant/empty-cart.ed01c3d763fc1cf9bdb8.svg": "9f76fcf6eb4727b79ab47c1c420cacb5ce458f91",
     "https://mrvecka.github.io/restaurant/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://mrvecka.github.io/restaurant/index.html": "d97bed0bbe19426b706b70bca988f47ddf9430be",
+    "https://mrvecka.github.io/restaurant/index.html": "b8ecd420a66af55c33fe7a197c9de99deb440bc6",
     "https://mrvecka.github.io/restaurant/main-es2015.aa94f01ab3ba2f2fbd2b.js": "9f12d2bf57d28bc017ee26a0e25bbe260b47bf8e",
     "https://mrvecka.github.io/restaurant/main-es5.aa94f01ab3ba2f2fbd2b.js": "cf9d92436e7ea30b72da51920927a4d32d2fbac8",
     "https://mrvecka.github.io/restaurant/manifest.webmanifest": "34132fc8eb068a1c9f6f3c5e73f243bb023c4427",
@@ -133,7 +133,7 @@
     "https://mrvecka.github.io/restaurant/polyfills-es5.d0ea57c549d73cf9cabb.js": "56653d2fee41bb3fa7987c48eecfbc4c679180b9",
     "https://mrvecka.github.io/restaurant/runtime-es2015.23ec4b4479ee6939be45.js": "4463c7aea81952750fa0eb81ebdcb58677de6de6",
     "https://mrvecka.github.io/restaurant/runtime-es5.23ec4b4479ee6939be45.js": "d72eeb27fcc937ae651c1bd077678848cb3194f1",
-    "https://mrvecka.github.io/restaurant/styles.17f62e9923a58434f8c4.css": "1c0bd9144ba7d9bc4aa2fbbdcb5d8d74b6dad919"
+    "https://mrvecka.github.io/restaurant/styles.4d2036cf9b0a59988c5b.css": "cb2a3842976ce5cc0f3b49efc3744f949bf5ce78"
   },
   "navigationUrls": [
     {
