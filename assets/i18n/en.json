@@ -19,7 +19,8 @@
     "email": "Email",
     "small": "Small",
     "medium": "Medium",
-    "big": "Big"
+    "big": "Big",
+    "update": "Update"
   },
   "offer": {
     "categories": "Categories",
@@ -63,7 +64,8 @@
     },
     "info": {
       "guest-login-dialo": "For best user experience please fill information below",
-      "checkout-in-progress": "Implemetation in progress"
+      "checkout-in-progress": "Implemetation in progress",
+      "update": "New version of app is available!"
     },
     "cart": {
       "item-delete": "Are you sure you want to remove item from cart?"

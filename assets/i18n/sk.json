@@ -22,7 +22,8 @@
     "email": "Email",
     "small": "Malá",
     "medium": "Stredná",
-    "big": "Veľká"
+    "big": "Veľká",
+    "update": "Aktualizovať"
   },
   "offer": {
     "categories": "Kategórie",
@@ -76,7 +77,8 @@
     },
     "info": {
       "guest-login-dialo": "Pre správne fungovanie aplikácie prosím zadajte nasledujúce údaje",
-      "checkout-in-progress": "Implementácia práve prebieha"
+      "checkout-in-progress": "Implementácia práve prebieha",
+      "update": "je dostupná nová verzia aplikácie!"
     },
     "cart": {
       "item-delete": "Naozaj chcete odstrániť položku z košíku?"
