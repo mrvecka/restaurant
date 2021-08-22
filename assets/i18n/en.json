@@ -19,8 +19,9 @@
     "email": "Email",
     "small": "Small",
     "medium": "Medium",
-    "big": "Big",
-    "update": "Update"
+    "large": "Big",
+    "update": "Update",
+    "waitress-summoned": "Your waitress has been summoned!"
   },
   "offer": {
     "categories": "Categories",
@@ -28,6 +29,7 @@
       "all": "All",
       "beer": "Beer",
       "alcohol": "Alcohol",
+      "drink": "Drink",
       "soda": "Soda",
       "food": "Food",
       "icecream": "Ice cream",
@@ -46,6 +48,11 @@
   "cart": {
     "empty": "Cart is empty",
     "navigate-to-offer": "Show offer",
+    "checkout": "Place order",
+    "order-info": "Order info",
+    "order-value": "Order value",
+    "tip": "Tip",
+    "total": "Total",
     "item": {
       "added": "Item was added to cart",
       "removed": "Item has been removed"

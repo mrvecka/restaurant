@@ -22,8 +22,9 @@
     "email": "Email",
     "small": "Malá",
     "medium": "Stredná",
-    "big": "Veľká",
-    "update": "Aktualizovať"
+    "large": "Veľká",
+    "update": "Aktualizovať",
+    "waitress-summoned": "Čašník je na ceste k Vám!"
   },
   "offer": {
     "categories": "Kategórie",
@@ -31,6 +32,7 @@
       "all": "Všetko",
       "beer": "Pivo",
       "alcohol": "Alkohol",
+      "drink": "Drink",
       "soda": "Nealko",
       "food": "Jedlo",
       "icecream": "Zmrzlina",
@@ -59,6 +61,11 @@
     "empty": "Košík je prázdny",
     "navigate-to-offer": "Zobraziť ponuku",
     "item-delete": "Naozaj chcete odstrániť položku z košíku?",
+    "checkout": "Vytvoriť objednávku",
+    "order-info": "Informácie o objednávke",
+    "order-value": "Suma objednávky",
+    "tip": "Prepitné",
+    "total": "Celkovo",
     "item": {
       "added": "Položka bola pridaná do košíka",
       "removed": "Položka bola odstránená"
