@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629658730395,
+  "timestamp": 1629747763293,
   "index": "https://mrvecka.github.io/restaurant/index.html",
   "assetGroups": [
     {
@@ -15,22 +15,22 @@
         "https://mrvecka.github.io/restaurant/140-es5.1a19beaac7deb96c4b73.js",
         "https://mrvecka.github.io/restaurant/260-es2015.ba5ae51d8450dd11a7aa.js",
         "https://mrvecka.github.io/restaurant/260-es5.ba5ae51d8450dd11a7aa.js",
-        "https://mrvecka.github.io/restaurant/655-es2015.f720e995f8d16563d706.js",
-        "https://mrvecka.github.io/restaurant/655-es5.f720e995f8d16563d706.js",
+        "https://mrvecka.github.io/restaurant/655-es2015.e05a75ba5d86e50d995f.js",
+        "https://mrvecka.github.io/restaurant/655-es5.e05a75ba5d86e50d995f.js",
         "https://mrvecka.github.io/restaurant/781-es2015.d751a0554ac94e7acd9d.js",
         "https://mrvecka.github.io/restaurant/781-es5.d751a0554ac94e7acd9d.js",
         "https://mrvecka.github.io/restaurant/common-es2015.c4aada0171bf14466584.js",
         "https://mrvecka.github.io/restaurant/common-es5.c4aada0171bf14466584.js",
         "https://mrvecka.github.io/restaurant/favicon.ico",
         "https://mrvecka.github.io/restaurant/index.html",
-        "https://mrvecka.github.io/restaurant/main-es2015.58ec5d56627479e4682a.js",
-        "https://mrvecka.github.io/restaurant/main-es5.58ec5d56627479e4682a.js",
+        "https://mrvecka.github.io/restaurant/main-es2015.972340cf049c4de568be.js",
+        "https://mrvecka.github.io/restaurant/main-es5.972340cf049c4de568be.js",
         "https://mrvecka.github.io/restaurant/manifest.webmanifest",
         "https://mrvecka.github.io/restaurant/polyfills-es2015.d011d83cb2fc77c990f0.js",
         "https://mrvecka.github.io/restaurant/polyfills-es5.67016f0b1a42908f9ddb.js",
-        "https://mrvecka.github.io/restaurant/runtime-es2015.5eaa86efa44b6250b9f2.js",
-        "https://mrvecka.github.io/restaurant/runtime-es5.5eaa86efa44b6250b9f2.js",
-        "https://mrvecka.github.io/restaurant/styles.a9afa665b3dc0c81f043.css"
+        "https://mrvecka.github.io/restaurant/runtime-es2015.f666a46ea6f5c76a0232.js",
+        "https://mrvecka.github.io/restaurant/runtime-es5.f666a46ea6f5c76a0232.js",
+        "https://mrvecka.github.io/restaurant/styles.c4df915b748da6dc0acd.css"
       ],
       "patterns": []
     },
@@ -87,8 +87,8 @@
     "https://mrvecka.github.io/restaurant/140-es5.1a19beaac7deb96c4b73.js": "bddbf2a61f5f8572ca1a270d077513a4dc1fe6a7",
     "https://mrvecka.github.io/restaurant/260-es2015.ba5ae51d8450dd11a7aa.js": "c69fa60ba450e40d8941c101ef5606718602de84",
     "https://mrvecka.github.io/restaurant/260-es5.ba5ae51d8450dd11a7aa.js": "868bf7ea4c2b47ec88aeb4672f75ef294376013e",
-    "https://mrvecka.github.io/restaurant/655-es2015.f720e995f8d16563d706.js": "46c664b60290cb54429e348e94cc0a90a9d2692d",
-    "https://mrvecka.github.io/restaurant/655-es5.f720e995f8d16563d706.js": "e024050808bcdc918ea90c32d0f4d634eac54803",
+    "https://mrvecka.github.io/restaurant/655-es2015.e05a75ba5d86e50d995f.js": "13984a5b270c0ae3689c89a6a33ab805becc876a",
+    "https://mrvecka.github.io/restaurant/655-es5.e05a75ba5d86e50d995f.js": "74eb67e873cb988eb3027ce97608495bdfe4b5e6",
     "https://mrvecka.github.io/restaurant/781-es2015.d751a0554ac94e7acd9d.js": "c8279fdac553b85f9edad88b92d346e4591ed0a8",
     "https://mrvecka.github.io/restaurant/781-es5.d751a0554ac94e7acd9d.js": "3a47e3af3f36f0a28d84975951e62068effea688",
     "https://mrvecka.github.io/restaurant/assets/i18n/en.json": "fb2e65e2daa4c28906031799ceb66ec87a64cf6d",
@@ -129,15 +129,15 @@
     "https://mrvecka.github.io/restaurant/common-es5.c4aada0171bf14466584.js": "81a3e43ff56383ef322988086af874892b8275cf",
     "https://mrvecka.github.io/restaurant/empty-cart.ed01c3d763fc1cf9bdb8.svg": "9f76fcf6eb4727b79ab47c1c420cacb5ce458f91",
     "https://mrvecka.github.io/restaurant/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://mrvecka.github.io/restaurant/index.html": "64eb6cf9b5d3d2bf31086aad0be99043da34d8f0",
-    "https://mrvecka.github.io/restaurant/main-es2015.58ec5d56627479e4682a.js": "42e4ee7f5a0aa0e18c519c140249f729b19f5d63",
-    "https://mrvecka.github.io/restaurant/main-es5.58ec5d56627479e4682a.js": "45b064b388ca90b5661bedb438c1760c7fd1c75e",
+    "https://mrvecka.github.io/restaurant/index.html": "db9f573ef61e93da8fbc5ae2c41ace04d13927d2",
+    "https://mrvecka.github.io/restaurant/main-es2015.972340cf049c4de568be.js": "658bd6875488c7f5c3597afcaa1dee8682081aeb",
+    "https://mrvecka.github.io/restaurant/main-es5.972340cf049c4de568be.js": "df4a9d87f7c2b7d38115adeaddba94d9968abce0",
     "https://mrvecka.github.io/restaurant/manifest.webmanifest": "2a585aceecc38310faae797267b1137f83335200",
     "https://mrvecka.github.io/restaurant/polyfills-es2015.d011d83cb2fc77c990f0.js": "c9f333fedf3316e49a80be5b4a28d73b7e090b2b",
     "https://mrvecka.github.io/restaurant/polyfills-es5.67016f0b1a42908f9ddb.js": "1ca3e64e5acd389ef4de37ac9c2697d844e9298a",
-    "https://mrvecka.github.io/restaurant/runtime-es2015.5eaa86efa44b6250b9f2.js": "0992a394dc3a1cbb588c2fb34f298531209c4b56",
-    "https://mrvecka.github.io/restaurant/runtime-es5.5eaa86efa44b6250b9f2.js": "ccec2bba102aa366ff3d6e6e10bc04c1bea85383",
-    "https://mrvecka.github.io/restaurant/styles.a9afa665b3dc0c81f043.css": "708638e9c671511a0e55cad074f8769d228b631c"
+    "https://mrvecka.github.io/restaurant/runtime-es2015.f666a46ea6f5c76a0232.js": "f1b194e3be5fa9d32ac01ded6f4efdede481cf25",
+    "https://mrvecka.github.io/restaurant/runtime-es5.f666a46ea6f5c76a0232.js": "ba707c89aad44b23d57e459cd7d5df72d0fd2b3c",
+    "https://mrvecka.github.io/restaurant/styles.c4df915b748da6dc0acd.css": "2f6d397394cc8a3c1f4ed25ec234ca320e3ed35a"
   },
   "navigationUrls": [
     {
